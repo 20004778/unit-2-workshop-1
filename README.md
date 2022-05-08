@@ -7,26 +7,19 @@ To Add Data to list and display the entered data on the screen.
 Android Studio(Min.required Artic Fox)
 
 ### ALGORITHM:
-### Step 1: 
-Open Android Stdio and then click on File -> New -> New project.
+ Step 1: Open Android Stdio and then click on File -> New -> New project.
 
-### Step 2: 
-Then type the Application name and click Next.
+ Step 2: Then type the Application name and click Next.
 
-### Step 3: 
-Then select the Minimum SDK as shown below and click Next.
+ Step 3: Then select the Minimum SDK as shown below and click Next.
 
-### Step 4: 
-Then select the Empty Activity and click Next. Finally click Finish.
+Step 4: Then select the Empty Activity and click Next. Finally click Finish.
+ 
+Step 5: Design layout in activity_main.xml.
 
-### Step 5: 
-Design layout in activity_main.xml.
+Step 6: Display message give in MainActivity file.
 
-### Step 6: 
-Display message give in MainActivity file.
-
-### Step 7: 
-Save and run the application.
+Step 7: Save and run the application.
 
 ### PROGRAM:
 ### activity_main.xml
@@ -79,7 +72,6 @@ Save and run the application.
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-
 ### MainActivity.java
 ```java
 package com.example.listview;
