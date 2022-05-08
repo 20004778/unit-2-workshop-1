@@ -7,19 +7,26 @@ To Add Data to list and display the entered data on the screen.
 Android Studio(Min.required Artic Fox)
 
 ### ALGORITHM:
-### Step 1: Open Android Stdio and then click on File -> New -> New project.
+### Step 1: 
+Open Android Stdio and then click on File -> New -> New project.
 
-### Step 2: Then type the Application name and click Next.
+### Step 2: 
+Then type the Application name and click Next.
 
-### Step 3: Then select the Minimum SDK as shown below and click Next.
+### Step 3: 
+Then select the Minimum SDK as shown below and click Next.
 
-### Step 4: Then select the Empty Activity and click Next. Finally click Finish.
+### Step 4: 
+Then select the Empty Activity and click Next. Finally click Finish.
 
-### Step 5: Design layout in activity_main.xml.
+### Step 5: 
+Design layout in activity_main.xml.
 
-### Step 6: Display message give in MainActivity file.
+### Step 6: 
+Display message give in MainActivity file.
 
-### Step 7: Save and run the application.
+### Step 7: 
+Save and run the application.
 
 ### PROGRAM:
 ### activity_main.xml
@@ -118,10 +125,10 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-### Output
+### Output:
 ![Screenshot (293)](https://user-images.githubusercontent.com/75236145/167294231-9dd2d245-01e1-40e1-b303-39e6dd11ca34.png)
 
 ![Screenshot (296)](https://user-images.githubusercontent.com/75236145/167294233-84a52ebb-0472-454f-9cfb-769b7523034a.png)
 
-### Result
+### Result:
 Thus a Simple Android Application Add Data to list and display the entered data on the screen using Android Studio is developed and executed successfully.
